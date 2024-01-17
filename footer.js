@@ -1,5 +1,5 @@
 // footer.js
-fetch('../footer/index.html')
+fetch('./footer')
   .then(response => response.ok ? response.text() : Promise.reject('Not found'))
-  .then(footerData => document.getElementById('footerContainer').innerHTML = footerData)
+  .then(footerData => document.getElementById('footer').innerHTML = footerData)
   .catch(error => console.error(error.message));
