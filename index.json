@@ -22,7 +22,7 @@
   <div id="uPyvRrK" data-type="container">
     <div id="BrahxAb" data-type="backgrounds">
       
-      <div id="WuUMcyI" data-type="bg-color" class="div-hidden">
+      <div id="WuUMcyI" data-type="bg-color" class="div-visible">
         <div id="SqjqDPr" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 255);"></div>
         <div id="NvuZHTD" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
         <div id="BAqjpYD" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgba(255,0,0,0), rgba(255,0,0,1));"></div>
@@ -36,7 +36,7 @@
         </picture>
       </div> <!-- bg-image -->
 
-      <div id="ITEePGZ" data-type="bg-video" class="div-visible">
+      <div id="ITEePGZ" data-type="bg-video" class="div-hidden">
         <video id="oxMkDrt" autoplay="" loop="" muted="">
           <source src="https://player.vimeo.com/external/370467553.sd.mp4?s=96de8b923370fb7fa8616d4e0b74eaf3fac9e576&amp;profile_id=165&amp;oauth2_token_id=57447761" type="video/mp4">
         </video>
@@ -50,7 +50,7 @@
         <p id="nQIjkcW" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont...</p>
         <div id="WxrDYTk">
           <a id="zcitUFN" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          <a id="KFWDiCw" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="KFWDiCw" contenteditable="true" href="https://www">LOREM IPSUM'.</a>
         </div> <!-- div2ID -->
       </div> <!-- div1ID -->
     </div> <!-- content -->
